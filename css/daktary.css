@@ -10,7 +10,7 @@ GENERAL
 body {
  /* Font stacks
   */
-$bookman: Bookman, 'Goudy Old Style', Georgia, serif;
+  font-family: Bookman, 'Goudy Old Style', Georgia, serif;
 $goudyoldstyle:'Gouldy Old style', Garamond, Georgia, serif;
 $garamond: Garamond, Georgia, serif;
 $georgia: Georgia, serif;
