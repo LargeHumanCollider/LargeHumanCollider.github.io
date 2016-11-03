@@ -8,7 +8,11 @@ GENERAL
 }
 
 body {
-  font-family: "Open Sans", Arial, sans-serif;
+ // Font stacks
+$bookman: Bookman, 'Goudy Old Style', Georgia, serif;
+$goudyoldstyle:'Gouldy Old style', Garamond, Georgia, serif;
+$garamond: Garamond, Georgia, serif;
+$georgia: Georgia, serif;
   font-size: 1rem;
   line-height: 1.2;
   color: #4d4d4d;
