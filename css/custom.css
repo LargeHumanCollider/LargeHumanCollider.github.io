@@ -1,3 +1,9 @@
 .home-intro {
   background: url(../img/home-intro.jpg) center 0 no-repeat;
+/* Font stacks
+  */
+$bookman: Bookman, 'Goudy Old Style', Georgia, serif;
+$goudyoldstyle:'Gouldy Old style', Garamond, Georgia, serif;
+$garamond: Garamond, Georgia, serif;
+$georgia: Georgia, serif;
 }
