@@ -8,7 +8,8 @@ GENERAL
 }
 
 body {
- // Font stacks
+ /* Font stacks
+  */
 $bookman: Bookman, 'Goudy Old Style', Georgia, serif;
 $goudyoldstyle:'Gouldy Old style', Garamond, Georgia, serif;
 $garamond: Garamond, Georgia, serif;
