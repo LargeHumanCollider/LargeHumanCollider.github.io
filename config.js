@@ -12,5 +12,5 @@ GH.CREW = 'organisations'
 var MULTIBAO = {}
 MULTIBAO.UVP1 = 'Concevoir et partager ensemble'
 MULTIBAO.UVP2 = 'Particules élémentaires'
-MULTIBAO.BUTTON1 = 'Découvrir'
+MULTIBAO.BUTTON1 = 'Accueil'
 MULTIBAO.BUTTON2 = 'Espace contributeurs / bloggeurs'
