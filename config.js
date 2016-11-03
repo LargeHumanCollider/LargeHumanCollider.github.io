@@ -5,7 +5,7 @@ var GH = {}
 GH.SECRET = 'YWU0ZmRkZGFjOTVlZGM1ZTc1MmI3NjRjZTI3Y2UxZGYyMzdmZTdkZg=='
 GH.ID = 'ODUzMjY1YjA5YjBjMjVlOTg2MTQ='
 // Github Owner's
-GH.OWNER = 'multibao'
+GH.OWNER = 'largehumancollider'
 // Github crew's repository
 GH.CREW = 'organisations'
 
