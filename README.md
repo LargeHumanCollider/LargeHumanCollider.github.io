@@ -89,3 +89,34 @@ Vincent Agnano : Anywhere
 ## Pull Request
 
 #US1 Personnaliser sa version de daktary
+
+### Re Use & transformation 
+
+Pour expliquer les site dna sl readme
+
+
+├─conf 
+├─dist 
+│  ├─pages 
+│  │  ├─custom
+│  │  └─snippet
+│  ├─static 
+│  │  ├─css
+│  │  │  └─vendor
+│  │  ├─fonts
+│  │  ├─img
+│  │  ├─ionicons
+│  │  └─js
+│  │      ├─libs
+│  │      └─plugins
+│  └─vendor 
+├─docs 
+├─server web
+├─snippets 
+└─res 
+    ├─compatible
+    ├─core
+    ├─model
+    ├─polyfill
+    ├─ui
+    └─ui-extend
