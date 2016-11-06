@@ -5,7 +5,10 @@ body {
 }
 
 #mocha {
-  font: 20px/1.5 "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font: 20px/1.5 Bookman, 'Goudy Old Style', Georgia, serif;
+goudyoldstyle:'Gouldy Old style', Garamond, Georgia, serif;
+garamond: Garamond, Georgia, serif;
+georgia: Georgia, serif;
   margin: 60px 50px;
 }
 
